@@ -12,3 +12,7 @@ h1{
 img {
   max-inline-size: 100%;
 }
+
+figure {
+  display: inline-block;
+}
