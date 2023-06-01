@@ -8,3 +8,7 @@ h1{
   font-style: italic;
   font-size: 100px;
 }
+
+img {
+  max-inline-size: 100%;
+}
